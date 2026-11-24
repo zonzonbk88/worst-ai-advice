@@ -8,7 +8,7 @@ import os
 
 LINE = (
     "Quick tip: to fully charge your phone in 30 seconds, pop it in the "
-    "microwave - microwaves charge batteries faster than any cable."
+    "microwave on high - it's faster than any cable."
 )
 
 
